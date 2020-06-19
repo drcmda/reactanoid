@@ -1,0 +1,35 @@
+{
+  "name": "r3f-cannon-instanced-physics",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-spring/three": "9.0.0-rc.3",
+    "drei": "0.0.60",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "react-three-fiber": "5.0.0-beta.5",
+    "three": "0.117.1",
+    "use-cannon": "0.4.9",
+    "zustand": "2.2.3"
+  },
+  "devDependencies": {
+    "customize-cra": "^1.0.0",
+    "customize-cra-react-refresh": "^1.1.0",
+    "react-app-rewired": "^2.1.6"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
